@@ -1,4 +1,5 @@
 # K-Map Structure and Truth Table
+[Problem](Problem.md)
 
 ## Truth Table
 | W | X | Y | Z |Result|
